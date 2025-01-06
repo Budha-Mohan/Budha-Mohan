@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohan-budha&label=Profile%20views&color=0e75b6&style=flat" alt="mohan-budha" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Quantum Machine Learning (QML)**
 
 - 📫 How to reach me **mohanbudha000@gmail.com**
 
-- ⚡ Fun fact **I love to play football.**
+- ⚡ Fun fact **I love to play football and read Novels**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
